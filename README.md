@@ -1,4 +1,3 @@
-# README
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -35,8 +34,9 @@ REQUIRED SECTIONS:
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
+# 📖 [Link to React frontend](https://github.com/Piercel2022/hello-react-frontend)
 
-**[Rails API backend]** hello-rails-back-end is an api app which serve as the api to be called by the react app
+Rails API backend  hello-rails-back-end is an api app which serve as the api to be called by the react app
 
 ## 🛠 Built With <a name="built-with"></a>
 
