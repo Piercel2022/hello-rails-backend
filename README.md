@@ -34,7 +34,7 @@ REQUIRED SECTIONS:
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Link to React frontend](https://github.com/Piercel2022/hello-react-frontend)
+# 📖 [Link to React frontend](https://github.com/Piercel2022/hello-react-front-end)
 
 Rails API backend  hello-rails-back-end is an api app which serve as the api to be called by the react app
 
