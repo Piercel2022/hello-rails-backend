@@ -67,10 +67,6 @@ Rails API backend  hello-rails-back-end is an api app which serve as the api to 
 
 - No live demo yet
 
-##  Front-end Repository <a name="hello-react-frontend"></a>
-
--
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## <a name="Project-Presentation"> Project Presentation</a>
