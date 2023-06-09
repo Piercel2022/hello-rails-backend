@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Rails.application.routes.draw do
-  root 'messages#index'
+  root 'greetings#index'
   namespace :api do
     namespace :v1 do
-      get 'messages/index', to: 'messages#index'
+      get 'greetings/index', to: 'greetings#index'
     end
   end
 end
